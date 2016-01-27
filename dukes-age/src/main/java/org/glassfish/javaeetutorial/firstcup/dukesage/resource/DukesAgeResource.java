@@ -4,7 +4,7 @@
  * compliance with the terms of the License at:
  * http://java.net/projects/javaeetutorial/pages/BerkeleyLicense
  */
-package firstcup.dukesage.resource;
+package org.glassfish.javaeetutorial.firstcup.dukesage.resource;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;
