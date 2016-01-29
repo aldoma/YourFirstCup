@@ -9,7 +9,7 @@
 
     <application>
         <resource-bundle>
-            <base-name>org.glassfish.javaeetutorial.firstcup.firstcup_war.web.WebMessages</base-name>
+            <base-name>firstcup.web.WebMessages</base-name>
             <var>bundle</var>
         </resource-bundle>
         <locale-config>

@@ -45,6 +45,6 @@ public class DukesAgeResource {
       dukesAge--;
     }
     // Return a String representation of Duke's age
-    return Integer.valueOf(dukesAge).toString();
+    return String.valueOf(dukesAge);
   }
 }

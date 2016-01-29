@@ -9,7 +9,6 @@
     <version>7.0.5</version>
   </parent>
 
-  <groupId>org.glassfish.javaeetutorial.firstcup</groupId>
   <artifactId>dukes-age</artifactId>
   <packaging>war</packaging>
   <name>dukes-age</name>
